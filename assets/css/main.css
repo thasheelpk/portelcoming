@@ -661,6 +661,7 @@ mark, .mark {
     padding: 120px 0 50px;
     z-index: 99;
     min-height: 100vh;
+    font-size: 15px;
 }
 
 .hero__wrapper .countdown__module {
